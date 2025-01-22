@@ -85,6 +85,7 @@ define( 'WP_DEBUG', false );
 
 
 
+define( 'DUPLICATOR_AUTH_KEY', 'RUCtbA;ks1}`:HpovAR%F=^-WE;v7Qb&=Cxm*#K?FM^ 3T>`*8na<:;:ne2v2_M&' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */

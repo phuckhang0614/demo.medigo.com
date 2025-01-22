@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Chiều cao tối thiểu bằng chiều cao màn hình */
+    /*min-height: 100vh;*/ /* Chiều cao tối thiểu bằng chiều cao màn hình */
 }
 
 /* Phong cách của form */
